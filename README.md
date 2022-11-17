@@ -1,7 +1,7 @@
 ## Hey, I'm Uday Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=uday95577.visitor-badge) -->
-<a href="https://github.com/uday95577"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Saksham27arya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+<a href="https://github.com/uday95577"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/uday95577?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
     
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
