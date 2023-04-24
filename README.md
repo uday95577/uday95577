@@ -2,12 +2,7 @@
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=uday95577.visitor-badge) -->
 <a href="https://github.com/uday95577"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/uday95577?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
-<div>
-    <img
-         src="https://i.giphy.com/JMJHY7w9GW3rW.gif"
-         alt="coding"
-         />
-    </div>
+
     
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
@@ -15,6 +10,13 @@ I'm a Computer Science Student 😊.
 
 <img alt="GIF" src="img.gif?raw=true" width="500"/>  
 
+<div>
+    <img
+         src="https://i.giphy.com/JMJHY7w9GW3rW.gif"
+         alt="coding"
+         />
+    </div>
+    
 ### Languages and Tools  
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
