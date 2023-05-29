@@ -1,5 +1,5 @@
 ## Hey, I'm Uday Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+![image](https://github.com/neetcode-gh/leetcode/assets/112892160/87851d2c-94ce-4d1e-aabb-033cfd146ab3)
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=uday95577.visitor-badge) -->
 <a href="https://github.com/uday95577"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/uday95577?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
 
@@ -8,8 +8,7 @@ I'm a Computer Science Student 😊.
 💻 Worked on many different technologies.  
 📜 Created many useful Scripts for students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
 
-<img alt="GIF" src="img.gif?raw=true" width="500"/>  
-![image](https://github.com/neetcode-gh/leetcode/assets/112892160/87851d2c-94ce-4d1e-aabb-033cfd146ab3)
+<img alt="GIF" src="img.gif?raw=true" width="500"/> 
 
 <div>
     <img
