@@ -9,6 +9,7 @@ I'm a Computer Science Student 😊.
 📜 Created many useful Scripts for students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
 
 <img alt="GIF" src="img.gif?raw=true" width="500"/>  
+![image](https://github.com/neetcode-gh/leetcode/assets/112892160/87851d2c-94ce-4d1e-aabb-033cfd146ab3)
 
 <div>
     <img
